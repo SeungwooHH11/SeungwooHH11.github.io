@@ -175,13 +175,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: #BB3322;
-  background: #FAF8EC;
+  background: #ADD8E6;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: #333333;
-  background: #FAF8EC;
+  background: #ADD8E6;
 }
 section {
   padding: 80px 0;
@@ -191,7 +191,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #FAF8EC;
+  background: #ADD8E6;
   color: #333333;
 }
 @media (max-width: 767px) {
@@ -314,7 +314,7 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #FAF8EC;
+  background-color: #ADD8E6;
 	  color: #888888;
 		 font-size: 11px;
 		   line-height: 12px;
@@ -337,7 +337,7 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: #2C3E50;
+  background-color: #ADD8E6;
   border-color: #2C3E50;
   font-weight: 700;
 }
@@ -480,7 +480,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #2C3E50;
+  background-color: ##ADD8E6;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -491,7 +491,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #2C3E50;
+  background-color: ##ADD8E6;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
