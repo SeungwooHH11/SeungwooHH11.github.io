@@ -82,7 +82,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #E0EEFF;
+  background-color: #eef0f1;
   color: white;
 }
 hr.star-primary {
@@ -347,7 +347,7 @@ footer .footer-below {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #E0EEFF;
+  background-color: #eef0f1;
   border-color: #161f29;
 }
 .btn-primary:active,
@@ -370,7 +370,7 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #E0EEFF;
+  background-color: #eef0f1;
   border-color: #2C3E50;
 }
 .btn-primary .badge {
@@ -389,7 +389,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
   color: white;
-  background-color: #E0EEFF;
+  background-color: #eef0f1;
   border-color: #11866f;
 }
 .btn-success:active,
