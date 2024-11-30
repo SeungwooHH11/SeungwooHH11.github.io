@@ -152,12 +152,12 @@ header .intro-text .skills {
   border: none;
 }
 .navbar-custom .navbar-brand {
-  color: #BB3322;
+  color: #4F60FF;
 	font-weight: bold;
   text-align: center;
 }
 .navbar-custom .navbar-brand:hover {
-  color: #BB3322;
+  color: #4F60FF;
 	font-weight: bold;
 }
 .navbar-custom .navbar-nav {
@@ -167,14 +167,14 @@ header .intro-text .skills {
   color: #333333;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #BB3322;
+  color: #4F60FF;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
   color: #333333;
 }
 .navbar-custom .navbar-nav li.active a {
-  color: #BB3322;
+  color: #4F60FF;
   background: #E0EEFF;
 }
 .navbar-custom .navbar-nav li.active a:hover,
