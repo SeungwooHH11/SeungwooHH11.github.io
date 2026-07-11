@@ -23,17 +23,10 @@ body {
 }
 
 p {
-  font-size: 13px;
+  font-size: 14px;
 }
 p.small {
-  font-size: 13px;
-}
-.research-intro {
-    background: #f6f9ff;
-    border-left: 4px solid #8FAEDB;
-    padding: 12px 18px;
-    margin-bottom: 24px;
-    border-radius: 6px;
+  font-size: 14px;
 }
 a,
 a:hover,
