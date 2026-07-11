@@ -18,15 +18,15 @@ body {
 		  height: 100%;
   background-color:#ffffff;
 	  color: #333333;
-				  font-size:12px;
+				  font-size:13px;
 
 }
 
 p {
-  font-size: 14px;
+  font-size: 13px;
 }
 p.small {
-  font-size: 14px;
+  font-size: 13px;
 }
 .research-intro p {
     font-size: 15px;
@@ -59,7 +59,7 @@ h4 {
 h5 {
    font-family: "Lucida Grande","Lucida Sans Unicode", Helvetica, Arial, sans-serif;
 	 /*  text-transform: uppercase; */
-	    font-size: 12px;
+	    font-size: 13px;
 	    font-weight: bold;
              line-height: 145%;
 }
@@ -238,11 +238,11 @@ section.success {
   font-size: 20px;
   text-align: center;
   top: 50%;
-  margin-top: -12px;
+  margin-top: -13px;
   color: #333333;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-  margin-top: -12px;
+  margin-top: -13px;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
@@ -323,7 +323,7 @@ footer .footer-below {
   background-color: #ffffff;
 	  color: #888888;
 		 font-size: 11px;
-		   line-height: 12px;
+		   line-height: 13px;
 }
 .btn-outline {
   color: white;
@@ -535,13 +535,13 @@ div#maincontent {
 }
 
 div.paper-title {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: bold;
   color: #606060
 }
 
 div.pub-year {
-  font-size: 12px;
+  font-size: 13px;
   line-height: 145%;
   margin-top: 10px;
   font-weight: bold;
