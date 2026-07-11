@@ -21,14 +21,12 @@ body {
 				  font-size:12px;
 
 }
-body{
-    background:red !important;
-}
+
 p {
-  font-size: 12px;
+  font-size: 14px;
 }
 p.small {
-  font-size: 12px;
+  font-size: 14px;
 }
 .research-intro p {
     font-size: 15px;
