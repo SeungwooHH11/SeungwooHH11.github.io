@@ -3,9 +3,7 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-body{
-    background:red !important;
-}
+
 .container {
   margin-right: auto;
   margin-left: auto;
@@ -22,6 +20,9 @@ body {
 	  color: #333333;
 				  font-size:12px;
 
+}
+body{
+    background:red !important;
 }
 p {
   font-size: 12px;
