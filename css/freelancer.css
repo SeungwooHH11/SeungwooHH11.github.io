@@ -149,7 +149,8 @@ header .intro-text .skills {
   font-family: "Lucida Grande","Lucida Sans Unicode", Helvetica, Arial, sans-serif;
 /*  text-transform: uppercase; */
   font-weight: 500;
-  border: none;
+  border-bottom: 1px solid #C9D6EB;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
 }
 .navbar-custom .navbar-brand {
   color: #0B2D5C;
