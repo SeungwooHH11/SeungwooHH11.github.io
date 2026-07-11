@@ -145,14 +145,14 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #b1caf0;
+  background: #8FAEDB;
   font-family: "Lucida Grande","Lucida Sans Unicode", Helvetica, Arial, sans-serif;
 /*  text-transform: uppercase; */
   font-weight: 500;
   border: none;
 }
 .navbar-custom .navbar-brand {
-  color: #002366;
+  color: #0B2D5C;
 	font-weight: bold;
   text-align: center;
 }
@@ -164,10 +164,10 @@ header .intro-text .skills {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: #333333;
+  color: #1F1F1F;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #002366;
+  color: #0B2D5C;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
