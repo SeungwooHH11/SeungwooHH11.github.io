@@ -147,14 +147,10 @@
             <img width=100% style="padding-left: 0%; padding-right: 0%;" src="img/graph-spline-nets-titlefig.png" alt=""/>
 			<p>
 				<a href="https://seungwoohh11.github.io/rp2.html">Project Details</a> </br>
-                We present GraphSplineNets, a novel deep-learning method to speed up the simulation of physical 
-                systems by reducing the grid size and number of iteration steps of deep surrogate models. 
-                Our method uses two differentiable orthogonal spline collocation methods to efficiently generate 
-                continuous solutions at any location in time and space. Additionally, we introduce an adaptive collocation 
-                strategy in space to prioritize sampling from the most important regions. GraphSplineNets improve the 
-                accuracy-speedup tradeoff in forecasting various dynamical systems with increasing complexity, 
-                including the heat equation, damped wave propagation, incompressible Navier-Stokes equations, 
-                and real-world ocean currents in both regular and irregular domains.
+                The Block Transportation Scheduling Problem focuses on finding efficient transportation schedules for hull blocks in a shipyard. In this work, we formulated the problem and represented it as a graph, where the origins and destinations of blocks are modeled as nodes and each transportation task is represented by a directed edge. We also designed the input features so that the same network can handle different numbers of blocks and available transporters.
+
+				Based on this graph representation, we developed a reinforcement learning model using a Crystal Graph Convolutional Neural Network (CGCNN). The model showed clear performance improvements over existing methods and conventional priority rules. We also compared several GNN architectures and found that CGCNN was well suited to our graph structure, particularly because it can directly use edge features during message passing.
+
             </p>
             <a href="https://neurips.cc/virtual/2023/poster/71917">[Paper]</a>
             <a href="https://github.com/kaist-silab/graphsplinenets">[GitHub]</a>
