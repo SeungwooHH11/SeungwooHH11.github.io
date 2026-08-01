@@ -87,10 +87,11 @@
             </div> -->
 
             <div class="sec">Current-Aware Rendezvous Planning for Multiple Patrolling USVs</div>
-			<br/>
+			
 			<b>1. Current-Aware Path Planning</b>
 			<br/>
-            <img width=100% style="padding-left: 5%; padding-right: 5%;" src="img/MURP.png" alt=""/>
+            <br/>
+			<img width=100% style="padding-left: 5%; padding-right: 5%;" src="img/MURP.png" alt=""/>
             <p>
 			<br/>	
 				We employ a grid-based graph search method for efficient navigation over large maritime areas. The continuous operating region is discretized into representative nodes, and current-aware edge costs are used to estimate travel times between them. A multi-step maneuver approximation further incorporates vessel turning constraints into the graph connectivity. Based on these components, we propose an efficient path-planning method that explicitly accounts for both environmental effects and vessel maneuverability constraints.				
@@ -98,11 +99,11 @@
 			<br/>
 			<b>2. Graph-RL-baesd Rendezvous Planning</b>
 			<br/>
+			<br/>
 			<img width=100% style="padding-left: 5%; padding-right: 5%;" src="img/MURP2.png" alt=""/>
             
 			<br/>
             <p>
-				<br/>
 				For rendezvous planning, we introduce a graph representation that captures the connectivity among spatiotemporal rendezvous candidates. Each patrol route is discretized into candidate nodes defined by both location and time, and directed edges connect candidates when a feasible transition between two USVs exists, based on travel times obtained from the preceding path-planning module. A gated GCN encodes this connectivity structure, enabling a reinforcement learning policy to learn an efficient visitation sequence for multiple patrolling USVs with hierarchical priorities.
             </p>
             <a href="https://seungwoohh11.github.io/rp2.html">Research summary</a> </br>
