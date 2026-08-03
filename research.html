@@ -162,13 +162,7 @@
             <div class="sec">Explainable AI for production scheduling</div>
 			<h5>Policy Distillation into Interpretable Scheduling Trees</h5>
             <p>
-                A graph attention multivariate time series forecasting (GAMTF) model was developed to determine coagulant dosage 
-                and was compared with conventional machine learning and deep learning models. The GAMTF model (R2 = 0.94, RMSE = 3.55) 
-                outperformed the other models (R2 = 0.63 - 0.89, RMSE = 4.80 - 38.98), and successfully predicted both coagulant dosage 
-                and settled water turbidity simultaneously. The GAMTF model improved the prediction accuracy by considering the hidden 
-                interrelationships between features and the past states of features. The results demonstrate the first successful application 
-                of multivariate time series deep learning model, especially, a state-of-the-art graph attention-based model, using long-term 
-                data for decision-support systems in water treatment processes.
+                This study proposes decision tree models for the explainable uniform parallel machine scheduling via policy distillation. While deep reinforcement learning (DRL) achieves high performance in scheduling, its black-box nature limits industrial adoption. To improve explainability without sacrificing performance, this study distills DRL policies into decision trees. However, the wide and dynamic action space in scheduling makes conventional tree distillation ineffective. To address this challenge, the study proposes two specialized architectures: the Rule-based Scheduling Tree (RST) and the Hierarchical Scheduling Tree (HST). Additionally, two complementary feature engineering methods are developed: the Relative Deviation (RD) method for quantifying comparative option values, and Evolutionary Feature Creation (EFC), which uses genetic programming to enhance feature representations.
             </p>
             <a href="https://www.sciencedirect.com/science/article/pii/S2214714423004683">[Paper]</a>
             <a href="https://github.com/cbhua/coagulant-forecast">[GitHub]</a>
